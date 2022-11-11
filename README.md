@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AoSankaku
 - 👀 I’m interested in modern Web Apps.
-- 🌱 I’m currently learning some languages.
-- 📫 How to reach me :
-Twitter:@Ao_Sankaku
+- 🌱 I’m currently learning some languages. Literally.
+- 📫 How to reach me : @Ao_Sankaku via Twitter
 
 <!---
 AoSankaku/AoSankaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
