@@ -1,6 +1,9 @@
+Detailed Profile
+https://aosankaku.github.io/profile
+
 - 👋 Hi, I’m @AoSankaku
-- 👀 I’m interested in modern Web Apps.
-- 🌱 I’m currently learning some languages. Literally.
+- 👀 I’m interested in modern Web Apps, machine learning, and some more technologies.
+- 🌱 I’m currently learning languages. Literally.
 - 📫 How to reach me : @Ao_Sankaku via Twitter
 
 <!---
