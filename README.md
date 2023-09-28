@@ -4,7 +4,7 @@ https://aosankaku.github.io/profile
 - 👋 Hi, I’m @AoSankaku
 - 👀 I’m interested in modern Web Apps, machine learning, and some more technologies.
 - 🌱 I’m currently learning languages. Literally.
-- 📫 How to reach me : @Ao_Sankaku via Twitter
+- 📫 How to reach me : [@Ao_Sankaku](https://twitter.com/Ao_Sankaku) via Twitter (formerly X)
 
 <!---
 AoSankaku/AoSankaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
